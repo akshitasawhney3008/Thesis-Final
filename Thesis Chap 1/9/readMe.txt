@@ -1,0 +1,2 @@
+Place all gthe 5 train and 5 test datasets in this folder.
+This will transform the 5 train and test datsets with the genes that have been finally filtered using the optimum k from the code before this.
